@@ -11,9 +11,9 @@ setInterval(function(){
 "|afonso|",
 "|afons|",
 "|afon|",
+"|afo|",
 "|af|",
 "|a|",
-"|f|",
 "|",
 ]
 
